@@ -1,0 +1,47 @@
+[
+   {
+      "EmployeeID": "32687688",
+      "Address": "8520 Sibyl Manors Apt. 407 North Jonborough, WI 52618",
+      "PhoneNumber": "1-924-926-8703 x320",
+      "CompanyEmail": "fziemann@gutmann.com",
+      "EmergencyContact": "Lew Stracke",
+      "EmergencyNumber": "+1-304-426-1660",
+      "SalaryAccountNumber": "5193195380767958"
+   },
+   {
+      "EmployeeID": "96418065",
+      "Address": "5271 Karolann Fort Crooksburgh, ID 41817-1512",
+      "PhoneNumber": "203.993.4776 x42472",
+      "CompanyEmail": "rohan.columbus@fay.com",
+      "EmergencyContact": "Reid Dickinson DVM",
+      "EmergencyNumber": "1-586-355-5379",
+      "SalaryAccountNumber": "5275458227160436"
+   },
+   {
+      "EmployeeID": "12345678",
+      "Address": "368 Ferne Dale Port Gilbertmouth, ME 61097",
+      "PhoneNumber": "604-859-5047 x45911",
+      "CompanyEmail": "bernhard.zieme@schaden.com",
+      "EmergencyContact": "Grayce Grant",
+      "EmergencyNumber": "837.678.0784 x5986",
+      "SalaryAccountNumber": "6011089472153433"
+   },
+   {
+      "EmployeeID": "8534321",
+      "Address": "4254 Bradtke Ways Suite 204 Stantonmouth, MS 14893-3786",
+      "PhoneNumber": "681.623.1712 x6067",
+      "CompanyEmail": "jettie.cartwright@cronin.biz",
+      "EmergencyContact": "Lindsey Toy",
+      "EmergencyNumber": "972-202-0387",
+      "SalaryAccountNumber": "5456077799090986"
+   },
+   {
+      "EmployeeID": "65147",
+      "Address": "50348 Brakus Flats Apt. 662 East Fiona, NY 91463-0952",
+      "PhoneNumber": "568-524-3389 x824",
+      "CompanyEmail": "greenfelder.abelardo@pfeffer.net",
+      "EmergencyContact": "Mr. Raleigh Yost",
+      "EmergencyNumber": "1-719-682-1260 x804",
+      "SalaryAccountNumber": "2414545740519806"
+   }
+]
